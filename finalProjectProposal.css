@@ -1,0 +1,22 @@
+/* 
+    Style sheet for Final Project Proposal website
+    Last updated date: 4/10/2022
+*/
+
+
+html,body {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:darkred
+}
+
+h1 {color:rgb(15, 1, 1); font-size: 70px; font-family: 'Alfa Slab One';}
+h2 {color:lightgrey; font-size:xlarge; font-style:italic;text-decoration:underline;}
+p {color:silver; font-size:small;}
+.p1 {color:silver; font-size:small; text-indent:550px}
+ul {color: silver;list-style-type: disc;list-style-position: inside}
+img {margin: 20;}
+hr {height: 3px; background-color:rgb(15, 1, 1); border: lightgrey;}
+.hr1 {height: 10px; background-color:rgb(15, 1, 1); border: lightgrey;}
