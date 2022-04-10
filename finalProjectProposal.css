@@ -12,7 +12,7 @@ html,body {
     background-color:darkred
 }
 
-h1 {color:rgb(15, 1, 1); font-size: 70px; font-family: 'Alfa Slab One';}
+h1 {color:rgb(15, 1, 1); font-size: 70px; font-family: 'Alfa Slab One'; font-stretch: ultra-expanded; margin-top:5px; margin-bottom: 7px}
 h2 {color:lightgrey; font-size:xlarge; font-style:italic;text-decoration:underline;}
 p {color:silver; font-size:small;}
 .p1 {color:silver; font-size:small; text-indent:550px}
