@@ -12,4 +12,4 @@ battleship.jpg
 Required Browser:
 Google Chrome, Firefox, or Microsoft Edge
 
-Last Updated Date: 4/10/2022
+Last Updated Date: 4/24/2022
